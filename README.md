@@ -1,2 +1,2 @@
-# Shooting-Cuties
+# Shooting Cuties
 My First Unity Game
